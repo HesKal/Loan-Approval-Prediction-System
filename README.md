@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://public.tableau.com/views/FinalGraph_17638895054630/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
-    <img src="./4_Tableau_Dashboard/Dashboard_Preview.png" alt="Tableau Dashboard Preview" width="90%"/>
+    <img src="https://github.com/HesKal/Loan-Approval-Prediction-System/blob/main/4_Tableau_Dashboard/Dashboard_Preview.jpg?raw=true" alt="Tableau Dashboard Preview" width="90%"/>
   </a>
     
 
