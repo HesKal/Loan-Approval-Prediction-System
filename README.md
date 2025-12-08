@@ -101,5 +101,6 @@ Based on this, we recommended the deployment of the Decision Tree model as an **
 This project was a successful collaboration between:
 
 *   **Hessa Khalfan** ([@Heskal](https://github.com/Heskal ))
-*   **Maryam Ali Abdulla**
-*   **Nourah Abdulla Alghfeli**
+*   **Nourah Alghfeli** ([@NourahAlghfeli](https://github.com/NourahAlghfeli ))
+*   **Maryam BinHamdah** ([@MaryamBinHamdah](https://github.com/MaryamBinHamdah ))
+
